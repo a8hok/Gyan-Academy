@@ -16,7 +16,7 @@ Installation
 
 To run the client code locally, follow these steps:
 
-    Clone this repository: git clone https://github.com/hari1538radha/GyanAcademy-Client.git
+    Clone this repository: git clone https://github.com/a8hok/Gyan-Academy
     Install dependencies: npm install
     Start the development server: npm start
 
